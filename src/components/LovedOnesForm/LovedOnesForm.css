@@ -1,10 +1,18 @@
 .loved-one-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     background-color: #f8f3ff;
     border-radius: 10px;
     border: 1px solid #ff69b4;
 }
+.form-group {
+    width: 90%;
+}
 
 .btn-pink {
+    max-width:90%;
     background-color: #ff69b4;
     color: #fff;
     border: none;
