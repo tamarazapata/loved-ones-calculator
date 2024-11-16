@@ -1,0 +1,18 @@
+.loved-ones-list {
+    background-color: #f8f3ff;
+    border-radius: 10px;
+    border: 1px solid #ff69b4;
+}
+
+.loved-one-item {
+    border-radius: 8px;
+    background-color: #fff;
+}
+
+h3 {
+    color: #ff69b4;
+}
+
+p {
+    font-size: 14px;
+}

@@ -1,0 +1,17 @@
+.loved-one-form {
+    background-color: #f8f3ff;
+    border-radius: 10px;
+    border: 1px solid #ff69b4;
+}
+
+.btn-pink {
+    background-color: #ff69b4;
+    color: #fff;
+    border: none;
+    border-radius: 20px;
+}
+
+.btn-pink:hover {
+    background-color: #ff87c1;
+}
+
